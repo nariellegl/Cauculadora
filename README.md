@@ -1,2 +1,1 @@
-# Cauculadora
-Cauculadora simples feita com HTML, CSS e JavaScript
+Página inspirada na versão mobile da tela de login da Netflix, usando HTML e CSS.
